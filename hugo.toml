@@ -1,6 +1,6 @@
 baseURL = "https://kkmarf.github.io/"
 languageCode = "zh-cn"
-title = "kkMarf's Blog"
+title = "kkLullaby's Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
@@ -14,10 +14,10 @@ enableEmoji = true
 
 [params]
   env = "production"
-  title = "kkMarf's Blog"
+  title = "kkLullaby's Blog"
   description = "一个专注于技术分享与生活感悟的个人博客"
   keywords = ["Blog", "技术博客", "生活", "学习笔记"]
-  author = "kkMarf"
+  author = "kkLullaby"
   
   # 主题设置
   defaultTheme = "auto"
@@ -40,7 +40,7 @@ enableEmoji = true
 
   # 首页信息
   [params.homeInfoParams]
-    Title = "欢迎来到我的互联网自留地 👋"
+    Title = "各位朋友，欢迎来到我的互联网自留地 👋"
     Content = "这个小站是我--探索世界无限可能，分享生活的美好的地方，记录着我的学习历程、技术心得和生活感悟。"
 
   # 社交图标
@@ -65,7 +65,7 @@ enableEmoji = true
   # 编辑建议
   [params.editPost]
     URL = "https://github.com/kkmarf/kkmarf.github.io/tree/main/content"
-    Text = "建议修改"
+    Text = "test"
     appendFilePath = true
 
   # 分析

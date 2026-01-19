@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>插件 on kkMarf&#39;s Blog</title>
-    <link>https://kkmarf.github.io/tags/%E6%8F%92%E4%BB%B6/</link>
-    <description>Recent content in 插件 on kkMarf&#39;s Blog</description>
+    <title>插件 on kkLullaby&#39;s Blog</title>
+    <link>http://localhost:1313/tags/%E6%8F%92%E4%BB%B6/</link>
+    <description>Recent content in 插件 on kkLullaby&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 10 Jan 2026 16:45:00 +0800</lastBuildDate>
-    <atom:link href="https://kkmarf.github.io/tags/%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VSCode 必备插件推荐 2026</title>
-      <link>https://kkmarf.github.io/posts/vscode-plugins/</link>
+      <link>http://localhost:1313/posts/vscode-plugins/</link>
       <pubDate>Sat, 10 Jan 2026 16:45:00 +0800</pubDate>
-      <guid>https://kkmarf.github.io/posts/vscode-plugins/</guid>
+      <guid>http://localhost:1313/posts/vscode-plugins/</guid>
       <description>分享 2026 年最实用的 VSCode 插件，提升开发效率</description>
     </item>
   </channel>

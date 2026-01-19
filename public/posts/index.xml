@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on kkMarf&#39;s Blog</title>
-    <link>https://kkmarf.github.io/posts/</link>
-    <description>Recent content in Posts on kkMarf&#39;s Blog</description>
+    <title>Posts on kkLullaby&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on kkLullaby&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 19 Jan 2026 18:52:37 +0800</lastBuildDate>
-    <atom:link href="https://kkmarf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World - My first blog post</title>
-      <link>https://kkmarf.github.io/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Mon, 19 Jan 2026 12:00:00 +0800</pubDate>
-      <guid>https://kkmarf.github.io/posts/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>&lt;h2 id=&#34;-你好世界&#34;&gt;👋 你好，世界&lt;/h2&gt;
 &lt;p&gt;歪歪歪，anybody hear me? （清清喉咙）我要开始在互联网上的一个固定阵地发布我的观点和留下足迹了。&lt;/p&gt;
 &lt;h3 id=&#34;为什么要写博客&#34;&gt;为什么要写博客？&lt;/h3&gt;
@@ -43,30 +43,30 @@
     </item>
     <item>
       <title>Linux 基础学习指南 (aigc自用)</title>
-      <link>https://kkmarf.github.io/posts/linux-learning/</link>
+      <link>http://localhost:1313/posts/linux-learning/</link>
       <pubDate>Mon, 19 Jan 2026 18:52:37 +0800</pubDate>
-      <guid>https://kkmarf.github.io/posts/linux-learning/</guid>
+      <guid>http://localhost:1313/posts/linux-learning/</guid>
       <description>Linux 系统基础知识学习指南，适合初学者</description>
     </item>
     <item>
       <title>Git 常用命令速查表 (aigc自用)</title>
-      <link>https://kkmarf.github.io/posts/git-cheatsheet/</link>
+      <link>http://localhost:1313/posts/git-cheatsheet/</link>
       <pubDate>Thu, 15 Jan 2026 14:30:00 +0800</pubDate>
-      <guid>https://kkmarf.github.io/posts/git-cheatsheet/</guid>
+      <guid>http://localhost:1313/posts/git-cheatsheet/</guid>
       <description>整理常用的 Git 命令，快速查阅使用</description>
     </item>
     <item>
       <title>Docker 入门实战教程 (aigc自用)</title>
-      <link>https://kkmarf.github.io/posts/docker-tutorial/</link>
+      <link>http://localhost:1313/posts/docker-tutorial/</link>
       <pubDate>Mon, 12 Jan 2026 10:20:00 +0800</pubDate>
-      <guid>https://kkmarf.github.io/posts/docker-tutorial/</guid>
+      <guid>http://localhost:1313/posts/docker-tutorial/</guid>
       <description>Docker 容器技术入门教程，从安装到实战</description>
     </item>
     <item>
       <title>VSCode 必备插件推荐 2026</title>
-      <link>https://kkmarf.github.io/posts/vscode-plugins/</link>
+      <link>http://localhost:1313/posts/vscode-plugins/</link>
       <pubDate>Sat, 10 Jan 2026 16:45:00 +0800</pubDate>
-      <guid>https://kkmarf.github.io/posts/vscode-plugins/</guid>
+      <guid>http://localhost:1313/posts/vscode-plugins/</guid>
       <description>分享 2026 年最实用的 VSCode 插件，提升开发效率</description>
     </item>
   </channel>

@@ -76,7 +76,6 @@ comments: false
 如果你也有博客，欢迎与我交换友链！
 
 **申请要求：**
-- 网站内容积极向上，无违法违规内容
 - 网站能正常访问，有一定的更新频率
 - 原创内容为主，非纯转载站
 - 最好是技术类博客
@@ -85,12 +84,12 @@ comments: false
 1. 先在你的博客添加本站链接
 2. 通过以下方式联系我：
    - 在本页面留言（开启评论功能后）
-   - 发送邮件至：your-email@example.com
+   - 发送邮件至：lkf1234567i@gmail.com
    - 在 GitHub 提交 Issue
 
 **本站信息：**
 ```
-站点名称: kkMarf's Blog
+站点名称: kkLullaby's Blog
 站点地址: https://kkmarf.github.io/
 站点描述: 一个专注于技术分享与生活感悟的个人博客
 站点头像: (可选)
@@ -98,7 +97,7 @@ comments: false
 
 ---
 
-### 优质资源推荐
+### 一些资源推荐（不定期更新）
 
 **学习资源：**
 - [GitHub](https://github.com) - 全球最大的代码托管平台

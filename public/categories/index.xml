@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on kkMarf&#39;s Blog</title>
-    <link>https://kkmarf.github.io/categories/</link>
-    <description>Recent content in Categories on kkMarf&#39;s Blog</description>
+    <title>Categories on kkLullaby&#39;s Blog</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on kkLullaby&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 19 Jan 2026 18:52:37 +0800</lastBuildDate>
-    <atom:link href="https://kkmarf.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aigc</title>
-      <link>https://kkmarf.github.io/categories/aigc/</link>
+      <link>http://localhost:1313/categories/aigc/</link>
       <pubDate>Mon, 19 Jan 2026 18:52:37 +0800</pubDate>
-      <guid>https://kkmarf.github.io/categories/aigc/</guid>
+      <guid>http://localhost:1313/categories/aigc/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://kkmarf.github.io/categories/linux/</link>
+      <link>http://localhost:1313/categories/linux/</link>
       <pubDate>Mon, 19 Jan 2026 18:52:37 +0800</pubDate>
-      <guid>https://kkmarf.github.io/categories/linux/</guid>
+      <guid>http://localhost:1313/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>学习笔记</title>
-      <link>https://kkmarf.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Mon, 19 Jan 2026 18:52:37 +0800</pubDate>
-      <guid>https://kkmarf.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>生活</title>
-      <link>https://kkmarf.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
+      <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Mon, 19 Jan 2026 12:00:00 +0800</pubDate>
-      <guid>https://kkmarf.github.io/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>开发工具</title>
-      <link>https://kkmarf.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+      <link>http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
       <pubDate>Thu, 15 Jan 2026 14:30:00 +0800</pubDate>
-      <guid>https://kkmarf.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      <guid>http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
       <description></description>
     </item>
   </channel>
