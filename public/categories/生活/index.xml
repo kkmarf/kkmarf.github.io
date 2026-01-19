@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>生活 on kkMarf&#39;s Blog</title>
-    <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</link>
+    <link>https://kkmarf.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on kkMarf&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 19 Jan 2026 12:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kkmarf.github.io/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World - My first blog post</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://kkmarf.github.io/posts/test/</link>
       <pubDate>Mon, 19 Jan 2026 12:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://kkmarf.github.io/posts/test/</guid>
       <description>&lt;h2 id=&#34;-你好世界&#34;&gt;👋 你好，世界&lt;/h2&gt;
 &lt;p&gt;歪歪歪，anybody hear me? （清清喉咙）我要开始在互联网上的一个固定阵地发布我的观点和留下足迹了。&lt;/p&gt;
 &lt;h3 id=&#34;为什么要写博客&#34;&gt;为什么要写博客？&lt;/h3&gt;

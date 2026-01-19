@@ -10,7 +10,7 @@ enableEmoji = true
 
 [minify]
   disableXML = true
-  minifyOutput = true
+  minifyOutput = false
 
 [params]
   env = "production"
@@ -70,7 +70,8 @@ enableEmoji = true
 
   # 分析
   [params.analytics]
-    google.SiteVerificationTag = ""
+    [params.analytics.google]
+      SiteVerificationTag = ""
 
   # 搜索设置
   [params.fuseOpts]

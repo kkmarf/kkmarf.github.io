@@ -33,7 +33,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.148.0' 
+          hugo-version: '0.154.5' 
           extended: true         # 开启 PaperMod 必须的增强版功能
 
       - name: Build with Hugo
