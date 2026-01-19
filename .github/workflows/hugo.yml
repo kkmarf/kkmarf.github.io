@@ -36,6 +36,10 @@ jobs:
           hugo-version: '0.154.5' 
           extended: true         # 开启 PaperMod 必须的增强版功能
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Build with Hugo
         run: |
           hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
