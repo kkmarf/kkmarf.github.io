@@ -90,7 +90,7 @@ comments: false
 **本站信息：**
 ```
 站点名称: kkLullaby's Blog
-站点地址: https://kkmarf.github.io/
+站点地址: https://kkLullaby.github.io/
 站点描述: 一个专注于技术分享与生活感悟的个人博客
 站点头像: (可选)
 ```

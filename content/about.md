@@ -55,7 +55,7 @@ enfp, 大湾区大学首届本科生，一名热爱探索新鲜技术的小白�
 
 如果你想和我交流，可以通过以下方式联系我：
 
-- **GitHub**: [github.com/kkmarf](https://github.com/kkmarf)
+- **GitHub**: [github.com/kkLullaby](https://github.com/kkLullaby)
 - **Email**: lkf1234567i@gmail.com
 - **博客留言**: 欢迎在文章下方留言讨论
 

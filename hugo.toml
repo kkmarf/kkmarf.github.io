@@ -1,4 +1,4 @@
-baseURL = "https://kkmarf.github.io/kklullaby.github.io/"
+baseURL = "https://kkLullaby.github.io/"
 languageCode = "zh-cn"
 title = "kkLullaby's Blog"
 theme = "PaperMod"
@@ -46,7 +46,7 @@ enableEmoji = true
   # 社交图标
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/kkmarf"
+    url = "https://github.com/kkLullaby"
 
   [[params.socialIcons]]
     name = "email"
@@ -64,7 +64,7 @@ enableEmoji = true
 
   # 编辑建议
   [params.editPost]
-    URL = "https://github.com/kkmarf/kkmarf.github.io/tree/main/content"
+    URL = "https://github.com/kkLullaby/kkLullaby.github.io/tree/main/content"
     Text = "test"
     appendFilePath = true
 
