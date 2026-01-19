@@ -5,24 +5,9 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "auto"
-  ShowShareButtons = true
-  ShowReadingTime = true
-  
-  [params.profileMode]
-    enabled = true
-    title = "Hello, I'm kkMarf"
-    subtitle = "CS Student @ GBU"
-    
-    [[params.profileMode.buttons]]
-      name = "GitHub"
-      url = "https://github.com/kkmarf"
 
 [menu]
   [[menu.main]]
     name = "Archive"
     url = "/archives/"
     weight = 10
-  [[menu.main]]
-    name = "Search"
-    url = "/search/"
-    weight = 20
