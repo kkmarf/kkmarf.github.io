@@ -6,13 +6,13 @@
     <description>Recent content in Posts on kkLullaby&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Jan 2026 18:52:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 23:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World - My first blog post</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/posts/my-life/test/</link>
       <pubDate>Mon, 19 Jan 2026 12:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/posts/my-life/test/</guid>
       <description>&lt;h2 id=&#34;-你好世界&#34;&gt;👋 你好，世界&lt;/h2&gt;
 &lt;p&gt;歪歪歪，anybody hear me? （清清喉咙）我要开始在互联网上的一个固定阵地发布我的观点和留下足迹了。&lt;/p&gt;
 &lt;h3 id=&#34;为什么要写博客&#34;&gt;为什么要写博客？&lt;/h3&gt;
@@ -40,6 +40,13 @@
 &lt;p&gt;希望能和各位一起成长hh&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;to be continue(一阵强劲的音乐响起)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>旧文其一：来到湾大一个月的感想</title>
+      <link>http://localhost:1313/posts/my-life/first-time-in-university/</link>
+      <pubDate>Mon, 19 Jan 2026 23:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-life/first-time-in-university/</guid>
+      <description></description>
     </item>
     <item>
       <title>Linux 基础学习指南 (aigc自用)</title>
